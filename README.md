@@ -99,6 +99,8 @@ Developed as a student project for learning C# and cybersecurity fundamentals.
 ##  License
 
 This project is for educational purposes only.
+<img width="660" height="154" alt="workflow" src="https://github.com/user-attachments/assets/918acc01-cc4e-4638-97a4-582c5a528228" />
+
 
     }
 }
